@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Isolinear Processor -->
+	<IsolinearProcessor.label>Eş Doğrusal İşlemci</IsolinearProcessor.label>
+
+	<!-- EN: A high-density optical computational module with advanced data extrapolation and processing capabilities. The key component of MedPods. -->
+	<IsolinearProcessor.description>Gelişmiş veri ekstrapolasyonu ve işleme yeteneklerine sahip yüksek yoğunluklu optik hesaplama modülü. MedPod'ların temel bileşeni.</IsolinearProcessor.description>
+
+</LanguageData>

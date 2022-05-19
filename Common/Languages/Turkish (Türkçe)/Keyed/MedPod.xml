@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	<MedPod_InspectorStatus_NoPower>Hata: Güç yok</MedPod_InspectorStatus_NoPower>
+	
+	<MedPod_InspectorStatus_DiagnosisProgress>Teşhis ({0}%)</MedPod_InspectorStatus_DiagnosisProgress>
+	
+	<MedPod_InspectorStatus_DiagnosisComplete>Teşhis Tamamlandı</MedPod_InspectorStatus_DiagnosisComplete>
+	
+	<MedPod_InspectorStatus_HealingProgress>Yenileniyor ({0}%)</MedPod_InspectorStatus_HealingProgress>
+	
+	<MedPod_InspectorStatus_PatientDischarged>100% Temiz</MedPod_InspectorStatus_PatientDischarged>
+	
+	<MedPod_InspectorStatus_Idle>Boşta</MedPod_InspectorStatus_Idle>
+	
+	<MedPod_Stat_PowerConsumptionDiagnosis_Label>Güç Tüketimi (Teşhis)</MedPod_Stat_PowerConsumptionDiagnosis_Label>
+	
+	<MedPod_Stat_PowerConsumptionDiagnosis_Desc>Bu MedPod'un Teşhis modunda çalışırken elektrik şebekesinden çekeceği güç miktarı.</MedPod_Stat_PowerConsumptionDiagnosis_Desc>
+	
+	<MedPod_Stat_PowerConsumptionHealing_Label>Güç tüketimi (Tedavi)</MedPod_Stat_PowerConsumptionHealing_Label>
+	
+	<MedPod_Stat_PowerConsumptionHealing_Desc>Bu MedPod'un Tedavi modunda çalışırken elektrik şebekesinden çekeceği güç miktarı.</MedPod_Stat_PowerConsumptionHealing_Desc>
+	
+	<MedPod_Stat_DiagnosisTime_Label>Teşhis zamanı</MedPod_Stat_DiagnosisTime_Label>
+	
+	<MedPod_Stat_DiagnosisTime_Desc>Bu MedPod'un bir hastayı teşhis etmesi ne kadar sürer.</MedPod_Stat_DiagnosisTime_Desc>
+	
+	<MedPod_Stat_PerHediffHealingTime_Label>Ort. koşul başına tedavi süresi</MedPod_Stat_PerHediffHealingTime_Label>
+	
+	<MedPod_Stat_PerHediffHealingTime_Desc>Bu MedPod'un bir hastadaki her bir tıbbi durumu tedavi etmesi (ortalama olarak) ne kadar sürer.\n\nBunun, durumun ciddiyetine göre ölçeklendirildiğini unutmayın - örneğin, daha az ciddi yaralanmaların tedavisi daha az zaman alacaktır.</MedPod_Stat_PerHediffHealingTime_Desc>
+	
+	<MedPod_Stat_TimeSeconds>{0} s</MedPod_Stat_TimeSeconds>
+	
+	<MedPod_Message_TreatmentComplete>MedPod tedavisi {1_label} için tamamlandı.</MedPod_Message_TreatmentComplete>
+	
+	<MedPod_Message_TreatmentInterrupted>MedPod tedavisi {1_label} için kesintiye uğradı.</MedPod_Message_TreatmentInterrupted>
+	
+	<MedPod_FloatMenu_RaceNotAllowed>MedPod Tedavi Edemez {0}s</MedPod_FloatMenu_RaceNotAllowed>
+	
+	<MedPod_FloatMenu_Unpowered>MedPod'a Güç Bağlanmamış</MedPod_FloatMenu_Unpowered>
+	
+	<MedPod_SurgeryProhibited_PatientUsingMedPod>Hasta MedPod Kullanıyor</MedPod_SurgeryProhibited_PatientUsingMedPod>
+	
+	<MedPod_CommandGizmoDisabled_MedPodInUse>{0} Kullanımda.</MedPod_CommandGizmoDisabled_MedPodInUse>
+	
+	<MedPod_CommandGizmoAbortTreatment_Label>iptal</MedPod_CommandGizmoAbortTreatment_Label>
+	
+	<MedPod_CommandGizmoAbortTreatment_Desc>Hastayı tedavi etmeyi durdur.</MedPod_CommandGizmoAbortTreatment_Desc>
+	
+	<MedPod_Letter_TraitRemoved_Label>Özellik kaldırıldı</MedPod_Letter_TraitRemoved_Label>
+	
+	<MedPod_Letter_TraitRemoved_Desc>{PAWN_labelShort} bir MedPod tarafından {PAWN_possessive} bağımlılığından/bağımlılıklarından tedavi edildi, ve artık aşağıdaki özelliklere sahip değil:\n</MedPod_Letter_TraitRemoved_Desc>
+
+</LanguageData>

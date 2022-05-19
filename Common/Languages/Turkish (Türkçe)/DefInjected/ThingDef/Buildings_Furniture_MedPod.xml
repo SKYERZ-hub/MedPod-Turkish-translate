@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Invisible Blocker -->
+	<MedPodInvisibleBlocker.label>Görünmez Engelleyici</MedPodInvisibleBlocker.label>
+	
+	<!-- EN: MedPod -->
+	<MedPodStandard.label>MedPod</MedPodStandard.label>
+
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis is a standard model frequently found in free public health clinics on Glitterworlds. -->
+	<MedPodStandard.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu, Glitterworlds'deki ücretsiz halk sağlığı kliniklerinde sıklıkla bulunan standart bir modeldir.</MedPodStandard.description>
+
+	<!-- EN: MedPod (blueprint)-->
+	<Blueprint_MedPodStandard.label>MedPod (Taslak)</Blueprint_MedPodStandard.label>
+
+	<!-- EN: MedPod (blueprint)-->
+	<Blueprint_Install_MedPodStandard.label>MedPod (Taslak)</Blueprint_Install_MedPodStandard.label>
+
+	<!-- EN: MedPod (building)-->
+	<Frame_MedPodStandard.label>MedPod (İnşa ediliyor)</Frame_MedPodStandard.label>
+
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis is a standard model frequently found in free public health clinics on Glitterworlds. -->
+	<Frame_MedPodStandard.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu, Glitterworlds'deki ücretsiz halk sağlığı kliniklerinde sıklıkla bulunan standart bir modeldir.</Frame_MedPodStandard.description>
+	
+	<!-- EN: VetPod -->
+	<MedPodAnimal.label>VetPod</MedPodAnimal.label>
+	
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis variant is designed for veterinary use on pets and other small domesticated animals. -->
+	<MedPodAnimal.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu varyant, evcil hayvanlar ve diğer küçük evcil hayvanlar üzerinde veteriner kullanımı için tasarlanmıştır.</MedPodAnimal.description>
+	
+	<!-- EN: VetPod (blueprint)-->
+	<Blueprint_MedPodAnimal.label>VetPod (Taslak)</Blueprint_MedPodAnimal.label>
+	
+	<!-- EN: VetPod (blueprint)-->
+	<Blueprint_Install_MedPodAnimal.label>VetPod (Taslak)</Blueprint_Install_MedPodAnimal.label>
+	
+	<!-- EN: VetPod (building)-->
+	<Frame_MedPodAnimal.label>VetPod (İnşa ediliyor)</Frame_MedPodAnimal.label>
+	
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis variant is designed for veterinary use on pets and other small domesticated animals. -->
+	<Frame_MedPodAnimal.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu varyant, evcil hayvanlar ve diğer küçük evcil hayvanlar üzerinde veteriner kullanımı için tasarlanmıştır.</Frame_MedPodAnimal.description>
+	
+	<!-- EN: VetPod Large -->
+	<MedPodAnimalMedium.label>VetPod Büyük</MedPodAnimalMedium.label>
+	
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis variant is designed for veterinary use on livestock, but can also treat smaller animals. -->
+	<MedPodAnimalMedium.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu varyant, hayvanlarda veterinerlik kullanımı için tasarlanmıştır, ancak daha küçük hayvanları da tedavi edebilir.</MedPodAnimalMedium.description>
+	
+	<!-- EN: VetPod Large (blueprint)-->
+	<Blueprint_MedPodAnimalMedium.label>VetPod Büyük (Taslak)</Blueprint_MedPodAnimalMedium.label>
+	
+	<!-- EN: VetPod Large (blueprint)-->
+	<Blueprint_Install_MedPodAnimalMedium.label>VetPod Büyük (Taslak)</Blueprint_Install_MedPodAnimalMedium.label>
+	
+	<!-- EN: VetPod Large (building)-->
+	<Frame_MedPodAnimalMedium.label>VetPod Büyük (İnşa Ediliyor)</Frame_MedPodAnimalMedium.label>
+	
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis variant is designed for veterinary use on livestock, but can also treat smaller animals. -->
+	<Frame_MedPodAnimalMedium.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu varyant, hayvanlarda veterinerlik kullanımı için tasarlanmıştır, ayrıca daha küçük hayvanları da tedavi edebilir.</Frame_MedPodAnimalMedium.description>
+	
+	<!-- EN: VetPod Mega -->
+	<MedPodAnimalBig.label>VetPod Devasa</MedPodAnimalBig.label>
+	
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis variant is designed for veterinary use on livestock and megafauna, but can also treat smaller animals. -->
+	<MedPodAnimalBig.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu varyant, çiftlik hayvanları ve megafauna üzerinde veteriner kullanımı için tasarlanmıştır, ancak daha küçük hayvanları da tedavi edebilir.</MedPodAnimalBig.description>
+	
+	<!-- EN: VetPod (blueprint)-->
+	<Blueprint_MedPodAnimalBig.label>VetPod Devasa (Taslak)</Blueprint_MedPodAnimalBig.label>
+	
+	<!-- EN: VetPod (blueprint)-->
+	<Blueprint_Install_MedPodAnimalBig.label>VetPod Devasa (Taslak)</Blueprint_Install_MedPodAnimalBig.label>
+	
+	<!-- EN: VetPod (building)-->
+	<Frame_MedPodAnimalBig.label>VetPod Devasa (İnşa Ediliyor)</Frame_MedPodAnimalBig.label>
+	
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis variant is designed for veterinary use on livestock and megafauna, but can also treat smaller animals. -->
+	<Frame_MedPodAnimalBig.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu varyant, çiftlik hayvanları ve megafauna üzerinde veteriner kullanımı için tasarlanmıştır, ancak daha küçük hayvanları da tedavi edebilir.</Frame_MedPodAnimalBig.description>
+
+</LanguageData>

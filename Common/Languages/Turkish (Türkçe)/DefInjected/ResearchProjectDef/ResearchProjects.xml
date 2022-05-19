@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Accelerated Cellular Regeneration -->
+	<AcceleratedCellularRegeneration.label>Hızlandırılmış Hücre Yenilenmesi</AcceleratedCellularRegeneration.label>
+
+	<!-- EN: Allows the construction of MedPods, advanced hospital beds capable of automatically treating a wide range of diseases and injuries by electrically stimulating and guiding the repair processes of living cells. -->
+	<AcceleratedCellularRegeneration.description>Canlı hücrelerin onarım süreçlerini elektriksel olarak uyararak ve yönlendirerek çok çeşitli hastalıkları ve yaralanmaları otomatik olarak tedavi edebilen gelişmiş hastane yatakları olan MedPod'ların yapımına izin verir.</AcceleratedCellularRegeneration.description>
+
+	<!-- EN: About: Building MedPods -->
+	<AcceleratedCellularRegeneration.discoveredLetterTitle>Hakkında: MedPod Oluşturma</AcceleratedCellularRegeneration.discoveredLetterTitle>
+
+	<!-- EN: You now have the technology to build MedPod beds - but each MedPod requires a special Isolinear Processor component. You can collect Isolinear Processors via the following ways:\n\n-Orbital or caravan exotic goods traders sell Isolinear Processors. Invite or wait for them.\n-Some quests are rewarded with Isolinear Processors. -->
+	<AcceleratedCellularRegeneration.discoveredLetterText>Artık MedPod yatakları oluşturacak teknolojiye sahipsiniz - ancak her MedPod özel bir İzolinear İşlemci bileşeni gerektirir. Eş Doğrusal İşlemcileri aşağıdaki yollarla toplayabilirsiniz:\n\n-Orbital veya karavan egzotik mal tüccarları Eş Doğrusal İşlemciler satar. Onları davet edin veya bekleyin.\n-Bazı görevler Eş Doğrusal İşlemcilerle ödüllendirilir.</AcceleratedCellularRegeneration.discoveredLetterText>
+
+</LanguageData>

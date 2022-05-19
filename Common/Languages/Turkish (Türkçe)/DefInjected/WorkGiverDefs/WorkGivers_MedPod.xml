@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: go to MedPod for emergency treatment -->
+	<MedPodPatientGoToMedPodEmergency.label>Acil tedavi için MedPod'a gidin</MedPodPatientGoToMedPodEmergency.label>
+	
+	<!-- EN: receiving treatment in -->
+	<MedPodPatientGoToMedPodEmergency.gerund>tedavi görülüyor</MedPodPatientGoToMedPodEmergency.gerund>
+	
+	<!-- EN: receive treatment in -->
+	<MedPodPatientGoToMedPodEmergency.verb>tedavi gör</MedPodPatientGoToMedPodEmergency.verb>
+	
+	<!-- EN: rescue downed allies to MedPod -->
+	<MedPodDoctorRescueToMedPod.label>Düşen müttefikleri MedPod'a kurtar</MedPodDoctorRescueToMedPod.label>
+	
+	<!-- EN: rescuing -->
+	<MedPodDoctorRescueToMedPod.gerund>Kurtarılıyor</MedPodDoctorRescueToMedPod.gerund>
+	
+	<!-- EN: rescue -->
+	<MedPodDoctorRescueToMedPod.verb>Kurtar</MedPodDoctorRescueToMedPod.verb>
+	
+	<!-- EN: go to MedPod for treatment -->
+	<MedPodPatientGoToMedPodTreatment.label>tedavi için MedPod'a gidin</MedPodPatientGoToMedPodTreatment.label>
+	
+	<!-- EN: receiving treatment in -->
+	<MedPodPatientGoToMedPodTreatment.gerund>tedavi görülüyor</MedPodPatientGoToMedPodTreatment.gerund>
+	
+	<!-- EN: receive treatment in -->
+	<MedPodPatientGoToMedPodTreatment.verb>tedavi görmek</MedPodPatientGoToMedPodTreatment.verb>
+	
+	<!-- EN: rescue downed prisoner to MedPod -->
+	<MedPodWardenRescueToMedPod.label>Düşen müttefikleri MedPod'a kurtar</MedPodWardenRescueToMedPod.label>
+	
+	<!-- EN: rescuing -->
+	<MedPodWardenRescueToMedPod.gerund>Kurtarılıyor</MedPodWardenRescueToMedPod.gerund>
+	
+	<!-- EN: rescue -->
+	<MedPodWardenRescueToMedPod.verb>Kurtar</MedPodWardenRescueToMedPod.verb>
+
+</LanguageData>

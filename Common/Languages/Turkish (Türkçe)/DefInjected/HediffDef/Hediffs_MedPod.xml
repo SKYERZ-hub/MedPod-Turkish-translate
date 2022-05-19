@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: delta wave induced coma -->
+	<MedPod_InducedComa.label>Delta dalgası kaynaklı koma</MedPod_InducedComa.label>
+
+	<!-- EN: Harmonically-shifted delta waves neuroelectrically applied to the cerebal cortex mimics the effects of chemical anesthesia, rendering creatures unconscious. -->
+	<MedPod_InducedComa.description>Serebral kortekse elektriksel olarak yeni uygulanan harmonik olarak kaydırılmış delta dalgaları, kimyasal anestezinin etkilerini taklit ederek canlıları bilinçsiz hale getirir.</MedPod_InducedComa.description>
+
+	<!-- EN: cortical stimulation -->
+	<MedPod_CorticalStimulation.label>kortikal stimülasyon</MedPod_CorticalStimulation.label>
+
+	<!-- EN: Neuroelectrical stimulation applied to the cerebal cortex, gently restoring consciousness in creatures. -->
+	<MedPod_CorticalStimulation.description>Serebral korteksin nöroelektrik uyarımı, yaratıkların bilincini nazikçe geri yükler.</MedPod_CorticalStimulation.description>
+
+	<!-- cortical stimulation (improper) -->
+	<MedPod_CorticalStimulationImproper.label>kortikal stimülasyon (uygun değil)</MedPod_CorticalStimulationImproper.label>
+
+	<!-- Neuroelectrical stimulation improperly applied to the cerebal cortex, abruptly restoring consciousness in creatures.\n\nUsually occurs when a MedPod loses power or otherwise malfunctions while in use. -->
+	<MedPod_CorticalStimulationImproper.description>Beyin korteksine yanlış uygulanan nöroelektrik stimülasyon, \n\nGenellikle bir MedPod, kullanım sırasında güç kaybettiğinde veya başka bir şekilde arızalandığında ortaya çıkar.</MedPod_CorticalStimulationImproper.description>
+
+</LanguageData>
