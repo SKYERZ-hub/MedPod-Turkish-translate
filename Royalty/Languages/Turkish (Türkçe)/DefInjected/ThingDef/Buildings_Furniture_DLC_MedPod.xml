@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ========== Royalty DLC-exclusive content ========== -->
+	
+	<!-- EN: MedPod Lux -->
+	<MedPodLux.label>MedPod Lüx</MedPodLux.label>
+
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis is an luxury model with gold-inlaid fittings and a gel-infused memory foam mattress, capable of faster diagnosis and treatment but requires higher power consumption. -->
+	<MedPodLux.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu, altın işlemeli aksesuarlara ve jel ile aşılanmış hafızalı köpük şilteye sahip lüks bir modeldir. daha hızlı tanı ve tedavi ancak daha yüksek güç tüketimi gerektirir.</MedPodLux.description>
+
+	<!-- EN: MedPod (blueprint)-->
+	<Blueprint_MedPodLux.label>MedPod Lüx (Taslak)</Blueprint_MedPodLux.label>
+
+	<!-- EN: MedPod (blueprint)-->
+	<Blueprint_Install_MedPodLux.label>MedPod Lüx (Taslak)</Blueprint_Install_MedPodLux.label>
+
+	<!-- EN: MedPod (building)-->
+	<Frame_MedPodLux.label>MedPod Lüx (İnşa ediliyor)</Frame_MedPodLux.label>
+
+	<!-- EN: An advanced hospital bed that uses accelerated cellular regeneration to treat nearly all kinds of injuries and diseases, including regenerating missing organs and limbs.\n\nThis is an luxury model with gold-inlaid fittings and a gel-infused memory foam mattress, capable of faster diagnosis and treatment but requires higher power consumption. -->
+	<Frame_MedPodLux.description>Eksik organ ve uzuvların yenilenmesi de dahil olmak üzere neredeyse her türlü yaralanma ve hastalığı tedavi etmek için hızlandırılmış hücresel yenilenmeyi kullanan gelişmiş bir hastane yatağı.\n\nBu, altın işlemeli aksesuarlara ve jel ile aşılanmış hafızalı köpük şilteye sahip lüks bir modeldir. daha hızlı tanı ve tedavi ancak daha yüksek güç tüketimi gerektirir.</Frame_MedPodLux.description>
+
+</LanguageData>
